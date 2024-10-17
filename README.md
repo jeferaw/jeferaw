@@ -7,4 +7,7 @@
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=44c0fe)
 
-Links
+### Links on me
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=fea944)](https://www.instagram.com/jefeinit/)
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=44c0fe)](https://t.me/mouldua)
