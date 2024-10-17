@@ -11,3 +11,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=fea944)](https://www.instagram.com/jefeinit/)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=44c0fe)](https://t.me/mouldua)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferaw&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
